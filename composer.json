@@ -1,0 +1,8 @@
+{
+  "name": "yuri/solid-php",
+  "autoload": {
+    "psr-4": {
+      "Alura\\Solid\\": "src/"
+    }
+  }
+}
